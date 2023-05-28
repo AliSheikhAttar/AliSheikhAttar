@@ -1,4 +1,4 @@
-#Hi there
+## Hi there
 🔭 I’m currently working on Developing and designing an E-commerce website<br>🌱 I’m currently learning Back-End development<br>⚡ Computer Engineering student
 
 
@@ -12,10 +12,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AliSheikhAttar&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliSheikhAttar&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![snake gif](https://github.com/AliSheikhAttar/AliSheikhAttar/blob/output/github-contribution-grid-snake.gif)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AliSheikhAttar&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+
+![snake gif](https://github.com/AliSheikhAttar/AliSheikhAttar/blob/output/github-contribution-grid-snake.gif)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AliSheikhAttar&icon=1&color=1)](https://visitcount.itsvg.in)
