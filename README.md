@@ -1,4 +1,4 @@
-# 💫 About Me:
+![snake gif](https://github.com/AliSheikhAttar/AliSheikhAttar/blob/output/github-contribution-grid-snake.gif)
 🔭 I’m currently working on Developing and designing an E-commerce website<br>🌱 I’m currently learning Back-End development<br>⚡ Computer Engineering student
 
 
