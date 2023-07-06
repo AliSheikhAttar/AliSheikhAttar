@@ -1,6 +1,6 @@
 ## Hi there
-🔭 I’m currently working on Developing and designing an E-commerce website<br>🌱 I’m currently learning Back-End development<br>⚡ Computer Engineering student
-
+⚡ Computer Engineering student<br>
+🔭 Interested in AI
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-sheikh-attar-4831ab222/) 
